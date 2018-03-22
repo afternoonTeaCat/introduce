@@ -1,0 +1,72 @@
+@charset "utf-8";
+#top {
+	background-color: #001A21;
+	background-image: url(../images/top7.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	height: 270px;
+	width: 100%;
+}
+#daohang {
+	background-color: #000;
+	width: 100%;
+	height: 30px;
+}
+
+body {
+	background-color: #1A317D;
+	color: #FFF;
+	font-family: "幼圆";
+	background-image: url(../images/bei333.jpg);
+}
+
+#picture {
+	height: 80px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #000;
+	border-bottom-width: medium;
+	border-bottom-style: dashed;
+	border-bottom-color: #13275C;
+	background-image: url(../images/w7.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+
+#main {
+	margin-right: auto;
+	margin-left: auto;
+	width: 1200px;
+	height: 800px;
+	margin-top: 90px;
+}
+#left {
+	position: relative;
+	height: 800px;
+	width: 282px;
+	background-image: url(../images/w11.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+#center {
+	position: relative;
+	height: 800px;
+	width: 636px;
+	left: 282px;
+	top: -800px;
+	background-image: url(../images/w5.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+#right {
+	position: relative;
+	height: 800px;
+	width: 282px;
+	left: 918px;
+	top: -1600px;
+	background-image: url(../images/w13.gif);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}

@@ -1,0 +1,75 @@
+@charset "utf-8";
+#top {
+	height: 270px;
+	width: 100%;
+	background-image: url(../images/top8.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#daohang {
+	background-color: #FFF;
+	height: 30px;
+	width: 100%;
+	margin-top: 0px;
+}
+#main1 {
+	height: 300px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	color: #566270;
+}
+#wen1 {
+	height: 300px;
+	width: 500px;
+	float: left;
+	font-family: "幼圆";
+	color: #566270;
+	font-weight: normal;
+	text-align: justify;
+	padding-top: 0px;
+}
+#main2 {
+	height: 500px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#bottom {
+	height: 20px;
+	width: 100%;
+	background-color: #65A3B0;
+}
+
+#main3 {
+	height: 600px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "幼圆";
+	font-size: 36px;
+	color: #000;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+	background-image: url(../images/bai2.jpg);
+	font-family: "幼圆";
+	color: #566270;
+}
